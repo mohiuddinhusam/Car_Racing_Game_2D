@@ -5,3 +5,5 @@ After starting the game, I use the selected button to play it. In order to score
 There are several level in it, after completing one level, I move to the next level.
 
 After playing the game, I get our obtained score.
+![a1](https://user-images.githubusercontent.com/72457167/147881876-29fd21c6-b5ac-4c0b-aebd-aaed11fe6dc7.png)
+![game](https://user-images.githubusercontent.com/72457167/147881878-737c7fc4-0f30-4d2f-8781-dc8129222f8f.png)
